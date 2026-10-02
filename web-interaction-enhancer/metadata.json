@@ -1,0 +1,6 @@
+{
+  "name": "rangroo Caffe",
+  "description": "한모금의 여유, 남부 이탈리아의 햇살을 담은 스페셜티 커피 브랜드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
